@@ -11,12 +11,12 @@ The web UI looks like this:
 
 ## Config File Layout
 
-'''json
+```json
 {
 	"token":"YOUR_SLACK_API_TOKEN",
 	"key":"A_CUSTOM_KEY"
 	}
-'''
+```
 
 ## Running
 
