@@ -7,7 +7,7 @@ Simply build a config file, provide your teammates with a sign-up key, and launc
 
 The web UI looks like this:
 
-![ ](screenshot.jpg)
+![ ](screenshot.png)
 
 ## Config File Layout
 
